@@ -6,7 +6,8 @@
   folder: 
 
   <<ANSWER
-❌Withdraw Failed!
+✅ Withdraw Funds from Airdrop Bot to Wallet
+✅ To avoid errors please use Trust Wallet
 
 ⚠️Please set up your wallet first!
   ANSWER
