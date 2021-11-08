@@ -6,12 +6,10 @@
   folder: 
 
   <<ANSWER
-🎁Congratulations! Your Reward: 
+🎁 Congratulations! Your Binance Reward: 
 
-🔹0.51 ETH
-🔸0.71 BNB
-🔺652 TRX
-🔸557 DOGE!
+🔸 0.05 BNB
+🔸 500 BUSD!
 
 
   ANSWER
