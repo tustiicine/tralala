@@ -15,7 +15,7 @@
 
 
   ANSWER
-  keyboard: 📜Menu, 💵Withdraw, 👤Support
+  keyboard: 📜Menu, 👤Support
   aliases: 🎁claim
 CMD*/
 
