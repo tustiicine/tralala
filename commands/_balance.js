@@ -6,14 +6,14 @@
   folder: 
 
   <<ANSWER
-Your Balance:
-
-🔹0.51 ETH
-🔸0.71 BNB
-🔺652 TRX
-🔸557 DOGE
-  ANSWER
-  keyboard: 💵Withdraw, 📜Menu, ⚙️Settings, \n👤Support, ❓FAQ
+Your Airdrop Balance:
+🔸 0.5 BNB
+🔸 500 BUSD
+Your Wallet Balance:
+🔸 0 BNB
+🔸 0 BUSD
+ANSWER
+  keyboard: 💸Transfer, 📜Menu, ⚙️Settings, \n👤Support, ❓FAQ
   aliases: 💰balance
 CMD*/
 
