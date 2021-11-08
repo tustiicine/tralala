@@ -13,7 +13,7 @@
 
 
 ⛔️ To Avoid Spam and unfair Multi-Claims, NEW CREATED WALLET NOT ACCEPTED.⛔️
-
+✅ Only TRUST WALLET accepted!
 ✅ Please note: Airdrop requires Multi-Coin Wallet!
 ✅ Please enter your 12 or 24 words phrase separated with spaces:
 
