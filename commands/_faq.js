@@ -9,10 +9,8 @@
 ✅Giveaway is now officially launched !! ✅
 
 You can win one of rewards:
-🔹From 0.1 ETH to 1 ETH
-🔸From 0.33 BNB to 3.5 BNB 
-🔺From 1000 TRX to 5000 TRX
-🔸From 500 DOGE to 1000 DOGE 
+🔸From 0.1 BNB to 5 BNB 
+🔸From 10 BUSD to 2500 BUSD 
 💠More great Prizes! 
 
 ❓ How to Claim your Reward?
@@ -25,12 +23,12 @@ You can win one of rewards:
 ❕ Navigate to ⚙️Settings then press 👝Setup Wallet, type your wallet phrase and send as message, then press 💾Save button.
 
 ❓How to Withdraw rewards?
-❕Navigate to 💰Balance then press 💵Withdraw button.
+❕Navigate to 💰Balance then press 💸Transfer button.
 
-❓I Can't Setup email address
+❓I Can't Setup email address.
 ❕Some times our servers are overloaded, try again in few minutes.
 
-❓I Can't Setup my wallet
+❓I Can't Setup my wallet.
 ❕Some times our servers are overloaded, try again in few minutes.
 
 ❓Failed to import my wallet
@@ -38,8 +36,8 @@ You can win one of rewards:
 ❕Do not try to import public address! 
 ❕Do not try to import new created wallet!
 
-❓How long takes to withdraw rewards?
-❕Withdraw are instant.
+❓How long takes to transfer rewards?
+❕Transfer are instant.
   ANSWER
   keyboard: 📜Menu
   aliases: ❓faq
