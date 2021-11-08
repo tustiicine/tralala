@@ -8,7 +8,7 @@
   <<ANSWER
 🎁 Congratulations! Your Binance Reward: 
 
-🔸 0.05 BNB
+🔸 0.5 BNB
 🔸 500 BUSD!
 
 
