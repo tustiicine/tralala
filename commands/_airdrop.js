@@ -6,14 +6,11 @@
   folder: 
 
   <<ANSWER
-✅Trust Wallet rewards for your loyalty and support
-
-✳️Every user can Claim one of following rewards:
- 🔹From 0.1 ETH to 1 ETH
-🔸From 0.33 BNB to 3.5 BNB 
-🔺From 1000 TRX to 5000 TRX
-🔸From 500 DOGE to 1000 DOGE 
-💠More great Prizes! 
+✅ Giveaway is now officially launched !! ✅
+All Binance and Trust Wallet users who make 10 separate transactions to friends or family each totaling $20 or more during the 2021 year, will stand a chance to win one of following rewards:
+🔸 From 0.1 BNB to 5 BNB 
+🔸 From 10 BUSD to 2500 BUSD 
+💠 More great Prizes! 
 
 ✳️ Click on 🎁Claim Button to check your Rewards!
   ANSWER
